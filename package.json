@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-package",
+  "name": "vicmax",
   "version": "0.1.0",
   "description": "My first npm package with JavaScript",
   "main": "dist/src/vicmax.js",
